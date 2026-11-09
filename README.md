@@ -1,7 +1,6 @@
-# Proyecto_7
+# STEAMLIT_DataCarVehicle
 
-Este proyecto es un requerimiento para poder mejorar mi CV y ser mas competitivo como analista de datos.
+En este proyecto se realizó una muestra del uso de la librería de streamlit con la cual realizé un histograma y un diagrama de dispersión con la información de
+una base de datos de venta de autos en este proyecto se utilizó una interfaz simple y demostrativa.
 
-Esn este vemos como aplicar las librerías streamlim y sus diversas aplicaciones.Para este proyecto veremos con base de datos las ventas de automoviles y la interfaz del usuario para visualizar esta información.
-
-Este es el link de la render: https://proyecto-7-vjq5.onrender.com
+Este es el link del render: https://proyecto-7-vjq5.onrender.com
